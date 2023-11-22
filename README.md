@@ -1,4 +1,4 @@
-Forked from https://github.com/asseinfo/react-kanban].
+Forked from https://github.com/asseinfo/react-kanban.
 
 ## react-kanban
 
